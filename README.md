@@ -1,4 +1,4 @@
-# C Programming Practice – Programming Advices 📘
+# C Programming Practice  📘
 
 ## Overview
 This repository contains practical programming exercises and solutions written in C, covering multiple difficulty levels from basic to advanced.  
@@ -15,8 +15,7 @@ The purpose is to build a strong foundation in C programming and enhance real-wo
 
 ---
 
-# 🙏 Acknowledgements
-- **Programming Advices** and **Professor Abouhodhoud** for high-quality tutorials and C programming content  
+# 🙏 Acknowledgements  
 - **Teacher 8** for guidance and support during the learning process  
 
 ---
